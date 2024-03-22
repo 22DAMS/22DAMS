@@ -1,4 +1,4 @@
-<h1>Hello World, ¡soy Danny! <br/><a href="https://github.com/22dams">Web FullSatck Developer</a>, <a href="https://www.linkedin.com/in/dannymarin-webfullstackdeveloper/">JAVA Developer</a></h1>
+<h1>Hello World, ¡soy Danny M.! <br/><a href="https://github.com/22dams">Web FullStack Developer</a>, <a href="https://www.linkedin.com/in/dannymarin-webfullstackdeveloper/">JAVA Developer</a></h1>
 
 <h2>👨🏽‍💻 Mis Proyectos</h2>
 
